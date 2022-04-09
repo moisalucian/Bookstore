@@ -48,10 +48,6 @@ bookstore
 
 ```
 
-## API testing
-
-- Postman
-
 ## Contribution
 
 Contributions are welcome, feel free to open pull requests or to contact me by e-mail.
